@@ -3,7 +3,7 @@ then
 	command
 
 
-elseif [condition 2]
+elif [condition 2]
 then
 	command for condtion 2
 
