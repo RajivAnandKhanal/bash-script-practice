@@ -1,0 +1,15 @@
+if [condition 1]
+then
+	command
+
+
+elseif [condition 2]
+then
+	command for condtion 2
+
+else
+	something beyond the condition is kept here
+
+fi
+
+# fi means if condition is finished
