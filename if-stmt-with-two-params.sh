@@ -3,7 +3,7 @@
 #In current directory -> checks whether a file exists or not and if the file has write permission or not -> if both condition is false or if second condidion is false -> creates a file or removes existing one and creates with write permission
 
 
-echo "this program searches for existance of file in current working directory"
+echo "this script searches for existance of file in current working directory"
 echo ""
 echo "if the file is NOT present in present working directory then this script creates one with write permission to owner and group in $(pwd)"
 echo ""
